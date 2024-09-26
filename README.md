@@ -15,16 +15,12 @@ The website is created using **Wix.com**. You can visit the website through the 
 - **Website URL**: [https://selesaonselasa.wixsite.com/selesa]
 
 ### Mobile App Prototype:
-The mobile app prototype is created using **Wix.com**. You can view the prototype via this link:
-- **Wix Prototype URL**: [https://www.figma.com/proto/yxWSVmEKjMGrwhh1cB8pP2/Project-Mobile-App-FCI3_Group-4?page-id=0%3A1&node-id=3106-265&node-type=canvas&viewport=85%2C609%2C0.45&t=NfMdb6PpvJ6l6xz0-1&scaling=scale-down&content-scaling=fixed]
+The mobile app prototype is created using **Figma**. You can view the prototype via this link:
+- **Figma Prototype URL**: [https://www.figma.com/proto/yxWSVmEKjMGrwhh1cB8pP2/Project-Mobile-App-FCI3_Group-4?page-id=0%3A1&node-id=3106-265&node-type=canvas&viewport=85%2C609%2C0.45&t=NfMdb6PpvJ6l6xz0-1&scaling=scale-down&content-scaling=fixed]
 
 ### User Manual:
 The mobile app user manual is designed in **Canva** and is available via the link below:
-- **User Manual URL**: []
+- **User Manual URL**: [https://www.canva.com/design/DAGRokM74s0/DEH48BS_6tMIrkFVGUpV9w/edit?utm_content=DAGRokM74s0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ## GitHub Collaboration
 ### Branching Strategy:
-- `main` branch: Contains the final version of the website and app.
-- `website` branch: This is for developing and updating the website.
-- `mobile-app` branch: This branch is used to develop the mobile app prototype.
-- `docs` branch: This is for writing the user manual and documentation.
