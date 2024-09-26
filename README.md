@@ -22,5 +22,3 @@ The mobile app prototype is created using **Figma**. You can view the prototype 
 The mobile app user manual is designed in **Canva** and is available via the link below:
 - **User Manual URL**: [https://www.canva.com/design/DAGRokM74s0/DEH48BS_6tMIrkFVGUpV9w/edit?utm_content=DAGRokM74s0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
-## GitHub Collaboration
-### Branching Strategy:
