@@ -16,7 +16,7 @@ The website is created using **Wix.com**. You can visit the website through the 
 
 ### Mobile App Prototype:
 The mobile app prototype is created using **Wix.com**. You can view the prototype via this link:
-- **Wix Prototype URL**: []
+- **Wix Prototype URL**: [https://www.figma.com/proto/yxWSVmEKjMGrwhh1cB8pP2/Project-Mobile-App-FCI3_Group-4?page-id=0%3A1&node-id=3106-265&node-type=canvas&viewport=85%2C609%2C0.45&t=NfMdb6PpvJ6l6xz0-1&scaling=scale-down&content-scaling=fixed]
 
 ### User Manual:
 The mobile app user manual is designed in **Canva** and is available via the link below:
