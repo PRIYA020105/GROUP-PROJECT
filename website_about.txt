@@ -1,0 +1,3 @@
+- Created About Page
+- Added Brief description of Selesa
+- Added contact us feature through email
