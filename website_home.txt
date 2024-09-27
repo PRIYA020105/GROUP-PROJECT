@@ -1,0 +1,31 @@
+- Created the Selesa Homepage in Wix
+- Style is minimal and clean
+- Features the colour scheme of green, light brown and beige
+Site Map:
+Home
+│
+├── Shop Now
+│     ├── Categories
+│     │     ├── Men
+│     │     ├── Women
+│     │     └── Accessories
+│     └── Product Pages
+│
+├── Donate Clothes
+│     ├── How to Donate
+│     └── Donation Form
+│
+├── About Us
+│     ├── Mission Statement
+│     ├── Team Information
+│     └── History/Background
+│
+├── Track Order
+│     └── Order Tracking Form
+│
+├── Wishlist
+│     └── Saved Items
+│
+└── Cart
+      ├── Items in Cart
+      └── Checkout Process
